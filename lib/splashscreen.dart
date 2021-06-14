@@ -48,7 +48,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   height: 180,
                   child: FlareActor(
                     'assets/animate.flr',
-                    animation: "loading",
+                    animation: "-box",
                   ),
                 ),
                 Container(
